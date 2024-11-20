@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ffhwpz8e4-go-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/ffhwpz8e4-go-new
